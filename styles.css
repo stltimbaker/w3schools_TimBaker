@@ -1,0 +1,20 @@
+/* Place your CSS styles in this file */
+body {
+    background-color: lightcyan;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.main-title {
+    text-align: center;
+    font-weight: normal;
+}
+
+#clock {
+    color:royalblue;
+    background-color: white;
+    text-align: center;
+    padding: 10px;
+    border-radius: 15px;
+    border: 2px solid blue;
+    max-width: 25%;
+}
